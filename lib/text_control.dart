@@ -23,6 +23,7 @@ class TextControl extends StatelessWidget {
               TextField(
                 controller: _controller,
                 decoration: const InputDecoration(
+                    label: Text("Enter some text"),
                     border: OutlineInputBorder(borderSide: BorderSide())),
               ),
               ElevatedButton(onPressed: onSubmit, child: const Text("Submit"))

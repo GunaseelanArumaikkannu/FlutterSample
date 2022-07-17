@@ -12,7 +12,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  String text = "Hello Text";
+  String text = "Hello!";
 
   void setText(String text) {
     setState(() {
