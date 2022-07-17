@@ -1,6 +1,8 @@
 # flutter_assignment
 
-A new Flutter project.
+A new Flutter project, sample for comunicating between the widgets using callback.
+
+![ezgif-1-ea0d516bce](https://user-images.githubusercontent.com/4026883/179392586-a415cf0b-6f23-491b-b147-ab40b249835d.gif)
 
 ## Getting Started
 
